@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on lot of things
 - 📫 How to reach me : here
 - 😄 Pronouns: He
-- ⚡ Fun fact: Buy a old house, have a mx5 miata, and a job as a programmer.
+- ⚡ Fun fact: Buy a old house and a mx5 miata, and a job as a programmer.
 
 <!---
 ErwanYvard/ErwanYvard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
